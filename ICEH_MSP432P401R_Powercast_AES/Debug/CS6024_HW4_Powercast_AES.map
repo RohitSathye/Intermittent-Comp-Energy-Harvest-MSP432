@@ -1,0 +1,1587 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+                              ./main.o (__aeabi_dmul)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              ./system_msp432p401r.o (__aeabi_fmul)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                              ./main.o (__aeabi_i2d)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                              ./main.o (__aeabi_dcmpgt)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+                              ./main.o (__aeabi_d2f)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              ./system_msp432p401r.o (__aeabi_fsub)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                              ./system_msp432p401r.o (__aeabi_fdiv)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+                              ./driverlib/cs.o (__aeabi_f2iz)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              ./system_msp432p401r.o (__aeabi_f2uiz)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ctx                 0xb0              ./main.o
+__lock___malloc_recursive_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+buf                 0x14              ./main.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MAIN_FLASH       0x00000000         0x00040000         xr
+INFO_FLASH       0x00200000         0x00004000         xr
+SRAM_CODE        0x01000000         0x00010000         xrw
+SRAM_DATA        0x20000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD ./main.o
+LOAD ./startup_msp432p401r_gcc.o
+LOAD ./system_msp432p401r.o
+LOAD ./driverlib/adc14.o
+LOAD ./driverlib/aes256.o
+LOAD ./driverlib/comp_e.o
+LOAD ./driverlib/cpu.o
+LOAD ./driverlib/crc32.o
+LOAD ./driverlib/cs.o
+LOAD ./driverlib/dma.o
+LOAD ./driverlib/flash.o
+LOAD ./driverlib/fpu.o
+LOAD ./driverlib/gpio.o
+LOAD ./driverlib/i2c.o
+LOAD ./driverlib/interrupt.o
+LOAD ./driverlib/mpu.o
+LOAD ./driverlib/pcm.o
+LOAD ./driverlib/pmap.o
+LOAD ./driverlib/pss.o
+LOAD ./driverlib/ref_a.o
+LOAD ./driverlib/reset.o
+LOAD ./driverlib/rtc_c.o
+LOAD ./driverlib/spi.o
+LOAD ./driverlib/sysctl.o
+LOAD ./driverlib/systick.o
+LOAD ./driverlib/timer32.o
+LOAD ./driverlib/timer_a.o
+LOAD ./driverlib/uart.o
+LOAD ./driverlib/wdt_a.o
+LOAD ./tiny_aes/aes.o
+                0x00000000                PROVIDE (_intvecs_base_address = DEFINED (_intvecs_base_address)?_intvecs_base_address:0x0)
+
+.intvecs        0x00000000       0xe4
+ *(.intvecs)
+ .intvecs       0x00000000       0xe4 ./startup_msp432p401r_gcc.o
+                0x00000000                interruptVectors
+                0x00200000                PROVIDE (_mailbox_base_address = 0x200000)
+
+.flashMailbox
+ *(.flashMailbox)
+                0x00201000                PROVIDE (_tlv_base_address = 0x201000)
+
+.tlvTable
+ *(.tlvTable)
+                0x00202000                PROVIDE (_bsl_base_address = 0x202000)
+
+.bslArea
+ *(.bslArea)
+                0x20000000                PROVIDE (_vtable_base_address = DEFINED (_vtable_base_address)?_vtable_base_address:0x20000000)
+
+.vtable
+ *(.vtable)
+
+.text           0x000000e8     0x7be0
+ CREATE_OBJECT_SYMBOLS
+ *(.text)
+ .text          0x000000e8        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x000000e8       0x40 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000128       0x74 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x00000128                _start
+                0x00000128                _mainCRTStartup
+ *fill*         0x0000019c        0x4 
+ .text          0x000001a0      0x1e4 ./main.o
+                0x000001a0                init_aes
+                0x000001b4                LED_Init
+                0x000001c8                Button1_Init
+                0x000001d4                Button1_Get_Input
+                0x000001e8                test_encrypt
+                0x00000200                ADC_init
+                0x0000023a                FPU_init
+                0x00000246                Checkpoint
+                0x00000278                main
+ .text          0x00000384       0x30 ./startup_msp432p401r_gcc.o
+                0x00000384                CS_IRQHandler
+                0x00000384                DebugMon_Handler
+                0x00000384                AES256_IRQHandler
+                0x00000384                HardFault_Handler
+                0x00000384                SysTick_Handler
+                0x00000384                PendSV_Handler
+                0x00000384                NMI_Handler
+                0x00000384                RTC_C_IRQHandler
+                0x00000384                PORT1_IRQHandler
+                0x00000384                FPU_IRQHandler
+                0x00000384                PORT2_IRQHandler
+                0x00000384                TA3_0_IRQHandler
+                0x00000384                UsageFault_Handler
+                0x00000384                DMA_INT3_IRQHandler
+                0x00000384                TA2_0_IRQHandler
+                0x00000384                DMA_INT1_IRQHandler
+                0x00000384                WDT_A_IRQHandler
+                0x00000384                TA2_N_IRQHandler
+                0x00000384                TA1_0_IRQHandler
+                0x00000384                EUSCIB1_IRQHandler
+                0x00000384                PSS_IRQHandler
+                0x00000384                DMA_INT2_IRQHandler
+                0x00000384                EUSCIA3_IRQHandler
+                0x00000384                DMA_INT0_IRQHandler
+                0x00000384                PORT4_IRQHandler
+                0x00000384                PORT5_IRQHandler
+                0x00000384                EUSCIB0_IRQHandler
+                0x00000384                Default_Handler
+                0x00000384                T32_INTC_IRQHandler
+                0x00000384                TA3_N_IRQHandler
+                0x00000384                TA0_0_IRQHandler
+                0x00000384                EUSCIA2_IRQHandler
+                0x00000384                PORT6_IRQHandler
+                0x00000384                PORT3_IRQHandler
+                0x00000384                MemManage_Handler
+                0x00000384                SVC_Handler
+                0x00000384                TA1_N_IRQHandler
+                0x00000384                EUSCIA1_IRQHandler
+                0x00000384                COMP_E1_IRQHandler
+                0x00000384                EUSCIB2_IRQHandler
+                0x00000384                FLCTL_IRQHandler
+                0x00000384                EUSCIB3_IRQHandler
+                0x00000384                T32_INT1_IRQHandler
+                0x00000384                ADC14_IRQHandler
+                0x00000384                DMA_ERR_IRQHandler
+                0x00000384                EUSCIA0_IRQHandler
+                0x00000384                BusFault_Handler
+                0x00000384                PCM_IRQHandler
+                0x00000384                TA0_N_IRQHandler
+                0x00000384                COMP_E0_IRQHandler
+                0x00000384                T32_INT2_IRQHandler
+                0x00000386                Reset_Handler
+ .text          0x000003b4      0x270 ./system_msp432p401r.o
+                0x000003b4                SystemCoreClockUpdate
+                0x000005d4                SystemInit
+ .text          0x00000624      0x780 ./driverlib/adc14.o
+                0x000007b4                ADC14_enableModule
+                0x000007c0                ADC14_disableModule
+                0x000007dc                ADC14_enableSampleTimer
+                0x0000080c                ADC14_disableSampleTimer
+                0x00000828                ADC14_initModule
+                0x00000874                ADC14_setResolution
+                0x00000888                ADC14_getResolution
+                0x00000898                ADC14_setSampleHoldTrigger
+                0x000008d4                ADC14_setSampleHoldTime
+                0x00000900                ADC14_configureMultiSequenceMode
+                0x0000098c                ADC14_configureSingleSampleMode
+                0x000009d4                ADC14_enableConversion
+                0x000009fc                ADC14_toggleConversionTrigger
+                0x00000a28                ADC14_disableConversion
+                0x00000a38                ADC14_isBusy
+                0x00000a48                ADC14_configureConversionMemory
+                0x00000ab8                ADC14_enableComparatorWindow
+                0x00000b0c                ADC14_disableComparatorWindow
+                0x00000b4c                ADC14_setComparatorWindowValue
+                0x00000ba4                ADC14_setResultFormat
+                0x00000bd4                ADC14_getResult
+                0x00000bec                ADC14_getMultiSequenceResult
+                0x00000c38                ADC14_getResultArray
+                0x00000c80                ADC14_enableReferenceBurst
+                0x00000c98                ADC14_disableReferenceBurst
+                0x00000cb4                ADC14_setPowerMode
+                0x00000cf0                ADC14_enableInterrupt
+                0x00000d10                ADC14_disableInterrupt
+                0x00000d34                ADC14_getInterruptStatus
+                0x00000d44                ADC14_getEnabledInterruptStatus
+                0x00000d60                ADC14_clearInterruptFlag
+                0x00000d80                ADC14_registerInterrupt
+                0x00000d92                ADC14_unregisterInterrupt
+ .text          0x00000da4      0x340 ./driverlib/aes256.o
+                0x00000da4                AES256_setCipherKey
+                0x00000e0c                AES256_encryptData
+                0x00000e60                AES256_decryptData
+                0x00000eb0                AES256_setDecipherKey
+                0x00000f24                AES256_clearInterruptFlag
+                0x00000f34                AES256_getInterruptFlagStatus
+                0x00000f44                AES256_enableInterrupt
+                0x00000f56                AES256_disableInterrupt
+                0x00000f68                AES256_reset
+                0x00000f78                AES256_startEncryptData
+                0x00000fb4                AES256_startDecryptData
+                0x00000fec                AES256_startSetDecipherKey
+                0x0000104e                AES256_getDataOut
+                0x00001084                AES256_isBusy
+                0x00001098                AES256_clearErrorFlag
+                0x000010aa                AES256_getErrorFlagStatus
+                0x000010ba                AES256_registerInterrupt
+                0x000010ca                AES256_unregisterInterrupt
+                0x000010da                AES256_getInterruptStatus
+ .text          0x000010e4      0x340 ./driverlib/comp_e.o
+                0x000011b4                COMP_E_initModule
+                0x00001244                COMP_E_setReferenceVoltage
+                0x000012a8                COMP_E_setReferenceAccuracy
+                0x000012cc                COMP_E_setPowerMode
+                0x000012dc                COMP_E_enableModule
+                0x000012f0                COMP_E_disableModule
+                0x00001304                COMP_E_shortInputs
+                0x00001314                COMP_E_unshortInputs
+                0x00001324                COMP_E_disableInputBuffer
+                0x00001330                COMP_E_enableInputBuffer
+                0x0000133c                COMP_E_swapIO
+                0x00001348                COMP_E_outputValue
+                0x00001350                COMP_E_enableInterrupt
+                0x0000135c                COMP_E_disableInterrupt
+                0x00001368                COMP_E_clearInterruptFlag
+                0x00001374                COMP_E_getInterruptStatus
+                0x0000137c                COMP_E_getEnabledInterruptStatus
+                0x0000138c                COMP_E_setInterruptEdgeDirection
+                0x000013b0                COMP_E_toggleInterruptEdgeDirection
+                0x000013bc                COMP_E_registerInterrupt
+                0x000013f0                COMP_E_unregisterInterrupt
+ .text          0x00001424       0x26 ./driverlib/cpu.o
+                0x00001424                CPU_cpsid
+                0x0000142c                CPU_primask
+                0x00001432                CPU_cpsie
+                0x0000143a                CPU_wfi
+                0x0000143e                CPU_basepriSet
+                0x00001444                CPU_basepriGet
+ *fill*         0x0000144a        0x2 
+ .text          0x0000144c       0xc4 ./driverlib/crc32.o
+                0x0000144c                CRC32_setSeed
+                0x00001466                CRC32_set8BitData
+                0x0000147c                CRC32_set16BitData
+                0x0000148e                CRC32_set32BitData
+                0x0000149c                CRC32_set8BitDataReversed
+                0x000014b4                CRC32_set16BitDataReversed
+                0x000014c6                CRC32_set32BitDataReversed
+                0x000014d8                CRC32_getResult
+                0x000014f4                CRC32_getResultReversed
+ .text          0x00001510      0xb30 ./driverlib/cs.o
+                0x00001664                CS_setExternalClockSourceFrequency
+                0x00001670                CS_initClockSignal
+                0x0000177c                CS_startHFXTWithTimeout
+                0x00001824                CS_startHFXT
+                0x0000182e                CS_startLFXTWithTimeout
+                0x000018cc                CS_startLFXT
+                0x000018d6                CS_enableClockRequest
+                0x000018f4                CS_disableClockRequest
+                0x00001914                CS_setReferenceOscillatorFrequency
+                0x00001934                CS_enableDCOExternalResistor
+                0x00001950                CS_setDCOExternalResistorCalibration
+                0x000019c4                CS_disableDCOExternalResistor
+                0x000019e4                CS_setDCOCenteredFrequency
+                0x00001a08                CS_tuneDCOFrequency
+                0x00001a6c                CS_getDCOFrequency
+                0x00001bb4                CS_setDCOFrequency
+                0x00001d60                CS_enableFaultCounter
+                0x00001d94                CS_disableFaultCounter
+                0x00001dc8                CS_resetFaultCounter
+                0x00001dfc                CS_startFaultCounter
+                0x00001e34                CS_enableInterrupt
+                0x00001e54                CS_disableInterrupt
+                0x00001e74                CS_getInterruptStatus
+                0x00001e80                CS_getEnabledInterruptStatus
+                0x00001e94                CS_clearInterruptFlag
+                0x00001f8c                CS_getBCLK
+                0x00001fac                CS_getHSMCLK
+                0x00001fc8                CS_getACLK
+                0x00001fe4                CS_getSMCLK
+                0x00002000                CS_getMCLK
+                0x0000201c                CS_registerInterrupt
+                0x0000202e                CS_unregisterInterrupt
+ .text          0x00002040      0x55c ./driverlib/dma.o
+                0x00002040                DMA_enableModule
+                0x0000204c                DMA_disableModule
+                0x00002058                DMA_getErrorStatus
+                0x00002064                DMA_clearErrorStatus
+                0x00002070                DMA_enableChannel
+                0x00002084                DMA_disableChannel
+                0x00002098                DMA_isChannelEnabled
+                0x000020b4                DMA_setControlBase
+                0x000020c0                DMA_getControlBase
+                0x000020cc                DMA_getControlAlternateBase
+                0x000020d8                DMA_requestChannel
+                0x000020ec                DMA_enableChannelAttribute
+                0x00002130                DMA_disableChannelAttribute
+                0x00002174                DMA_getChannelAttribute
+                0x000021b0                DMA_setChannelControl
+                0x000021d0                DMA_setChannelTransfer
+                0x00002260                DMA_setChannelScatterGather
+                0x000022b8                DMA_getChannelSize
+                0x000022d8                DMA_getChannelMode
+                0x00002300                DMA_assignChannel
+                0x00002470                DMA_requestSoftwareTransfer
+                0x00002484                DMA_getInterruptStatus
+                0x00002490                DMA_clearInterruptFlag
+                0x000024a8                DMA_enableInterrupt
+                0x000024ec                DMA_assignInterrupt
+                0x00002538                DMA_disableInterrupt
+                0x0000257c                DMA_registerInterrupt
+                0x0000258c                DMA_unregisterInterrupt
+ .text          0x0000259c     0x122c ./driverlib/flash.o
+                0x0000274e                FlashCtl_getMemoryInfo
+                0x00002774                FlashCtl_enableReadBuffering
+                0x000027c4                FlashCtl_disableReadBuffering
+                0x00002814                FlashCtl_isSectorProtected
+                0x0000286c                FlashCtl_unprotectSector
+                0x000028cc                FlashCtl_protectSector
+                0x0000291c                FlashCtl_setReadMode
+                0x00002970                FlashCtl_getReadMode
+                0x00002994                FlashCtl_initiateMassErase
+                0x000029b4                FlashCtl_initiateSectorErase
+                0x00002a24                FlashCtl_setProgramVerification
+                0x00002a68                FlashCtl_clearProgramVerification
+                0x00002aac                FlashCtl_enableWordProgramming
+                0x00002ad4                FlashCtl_disableWordProgramming
+                0x00002ae0                FlashCtl_isWordProgrammingEnabled
+                0x00002b00                FlashCtl_setWaitState
+                0x00002b2c                FlashCtl_getWaitState
+                0x00002b50                FlashCtl_verifyMemory
+                0x00002d58                FlashCtl_eraseSector
+                0x00002e60                FlashCtl_performMassErase
+                0x00002f9c                FlashCtl_enableInterrupt
+                0x00002fb0                FlashCtl_disableInterrupt
+                0x00002fc4                FlashCtl_getInterruptStatus
+                0x00002fd0                FlashCtl_getEnabledInterruptStatus
+                0x00002fe4                FlashCtl_clearInterruptFlag
+                0x00002ff8                FlashCtl_registerInterrupt
+                0x0000300a                FlashCtl_unregisterInterrupt
+                0x0000301a                __FlashCtl_remaskData8Post
+                0x00003080                __FlashCtl_remaskData8Pre
+                0x00003184                __FlashCtl_remaskData32Post
+                0x00003234                __FlashCtl_remaskData32Pre
+                0x00003384                __FlashCtl_remaskBurstDataPre
+                0x00003474                __FlashCtl_remaskBurstDataPost
+                0x000036cc                FlashCtl_programMemory
+ .text          0x000037c8       0xac ./driverlib/fpu.o
+                0x000037c8                FPU_enableModule
+                0x000037dc                FPU_disableModule
+                0x000037f0                FPU_enableStacking
+                0x00003804                FPU_enableLazyStacking
+                0x00003814                FPU_disableStacking
+                0x00003824                FPU_setHalfPrecisionMode
+                0x00003838                FPU_setNaNMode
+                0x0000384c                FPU_setFlushToZeroMode
+                0x00003860                FPU_setRoundingMode
+ .text          0x00003874      0x2f8 ./driverlib/gpio.o
+                0x00003874                GPIO_setAsOutputPin
+                0x0000389c                GPIO_setAsInputPin
+                0x000038c4                GPIO_setAsPeripheralModuleFunctionOutputPin
+                0x00003920                GPIO_setAsPeripheralModuleFunctionInputPin
+                0x0000397c                GPIO_setOutputHighOnPin
+                0x00003994                GPIO_setOutputLowOnPin
+                0x000039ac                GPIO_toggleOutputOnPin
+                0x000039c4                GPIO_setAsInputPinWithPullDownResistor
+                0x000039f8                GPIO_setAsInputPinWithPullUpResistor
+                0x00003a2c                GPIO_getInputPinValue
+                0x00003a48                GPIO_enableInterrupt
+                0x00003a60                GPIO_disableInterrupt
+                0x00003a78                GPIO_getInterruptStatus
+                0x00003a8c                GPIO_clearInterruptFlag
+                0x00003aa4                GPIO_interruptEdgeSelect
+                0x00003ac8                GPIO_getEnabledInterruptStatus
+                0x00003b0c                GPIO_setDriveStrengthHigh
+                0x00003b20                GPIO_setDriveStrengthLow
+                0x00003b34                GPIO_registerInterrupt
+                0x00003b50                GPIO_unregisterInterrupt
+ .text          0x00003b6c      0x5f0 ./driverlib/i2c.o
+                0x00003b6c                I2C_initMaster
+                0x00003bb4                I2C_initSlave
+                0x00003be0                I2C_enableModule
+                0x00003bf0                I2C_disableModule
+                0x00003c00                I2C_setSlaveAddress
+                0x00003c06                I2C_setMode
+                0x00003c16                I2C_masterReceiveSingleByte
+                0x00003c44                I2C_slavePutData
+                0x00003c48                I2C_slaveGetData
+                0x00003c4e                I2C_isBusBusy
+                0x00003c5c                I2C_masterSendSingleByte
+                0x00003cb8                I2C_masterSendSingleByteWithTimeout
+                0x00003d30                I2C_masterSendMultiByteStart
+                0x00003d78                I2C_masterSendMultiByteStartWithTimeout
+                0x00003dc8                I2C_masterSendMultiByteNext
+                0x00003df0                I2C_masterSendMultiByteNextWithTimeout
+                0x00003e24                I2C_masterSendMultiByteFinish
+                0x00003e64                I2C_masterSendMultiByteFinishWithTimeout
+                0x00003ebc                I2C_masterSendMultiByteStop
+                0x00003eec                I2C_masterSendMultiByteStopWithTimeout
+                0x00003f24                I2C_masterReceiveStart
+                0x00003f36                I2C_masterReceiveMultiByteNext
+                0x00003f3c                I2C_masterReceiveMultiByteFinish
+                0x00003f6c                I2C_masterReceiveMultiByteFinishWithTimeout
+                0x00003fb4                I2C_masterReceiveMultiByteStop
+                0x00003fc4                I2C_masterReceiveSingle
+                0x00003fe8                I2C_getReceiveBufferAddressForDMA
+                0x00003fec                I2C_getTransmitBufferAddressForDMA
+                0x00003ff0                I2C_masterIsStopSent
+                0x00003ffe                I2C_masterIsStartSent
+                0x00004012                I2C_masterSendStart
+                0x00004022                I2C_enableMultiMasterMode
+                0x00004036                I2C_disableMultiMasterMode
+                0x0000404c                I2C_enableInterrupt
+                0x00004058                I2C_disableInterrupt
+                0x00004064                I2C_clearInterruptFlag
+                0x00004070                I2C_getInterruptStatus
+                0x00004076                I2C_getEnabledInterruptStatus
+                0x00004082                I2C_getMode
+                0x0000408a                I2C_registerInterrupt
+                0x000040ec                I2C_unregisterInterrupt
+                0x0000414c                I2C_slaveSendNAK
+ .text          0x0000415c      0x324 ./driverlib/interrupt.o
+                0x0000415e                Interrupt_enableMaster
+                0x0000416c                Interrupt_disableMaster
+                0x0000417a                Interrupt_registerInterrupt
+                0x000041b4                Interrupt_unregisterInterrupt
+                0x000041c8                Interrupt_setPriorityGrouping
+                0x000041e4                Interrupt_getPriorityGrouping
+                0x0000420c                Interrupt_setPriority
+                0x00004238                Interrupt_getPriority
+                0x00004258                Interrupt_enableInterrupt
+                0x000042c0                Interrupt_disableInterrupt
+                0x00004328                Interrupt_isEnabled
+                0x00004398                Interrupt_pendInterrupt
+                0x000043f0                Interrupt_unpendInterrupt
+                0x00004438                Interrupt_setPriorityMask
+                0x00004440                Interrupt_getPriorityMask
+                0x0000444a                Interrupt_setVectorTableAddress
+                0x00004454                Interrupt_getVectorTableAddress
+                0x00004460                Interrupt_enableSleepOnIsrExit
+                0x00004470                Interrupt_disableSleepOnIsrExit
+ .text          0x00004480       0xb8 ./driverlib/mpu.o
+                0x00004480                MPU_enableModule
+                0x00004490                MPU_disableModule
+                0x000044a0                MPU_getRegionCount
+                0x000044b0                MPU_enableRegion
+                0x000044c4                MPU_disableRegion
+                0x000044d8                MPU_setRegion
+                0x000044f4                MPU_getRegion
+                0x0000450c                MPU_registerInterrupt
+                0x00004518                MPU_unregisterInterrupt
+                0x00004522                MPU_enableInterrupt
+                0x0000452c                MPU_disableInterrupt
+ .text          0x00004538      0x6e4 ./driverlib/pcm.o
+                0x00004538                PCM_shutdownDevice
+                0x00004584                PCM_gotoLPM0
+                0x000045ac                PCM_gotoLPM0InterruptSafe
+                0x000045c4                PCM_getPowerState
+                0x000045d0                PCM_getPowerMode
+                0x00004602                PCM_getCoreVoltageLevel
+                0x00004760                PCM_setPowerMode
+                0x0000476c                PCM_setPowerModeNonBlocking
+                0x00004778                PCM_setPowerModeWithTimeout
+                0x00004860                PCM_setCoreVoltageLevel
+                0x0000486c                PCM_setCoreVoltageLevelWithTimeout
+                0x00004876                PCM_setCoreVoltageLevelNonBlocking
+                0x00004882                PCM_gotoLPM3
+                0x00004908                PCM_gotoLPM4
+                0x00004b22                PCM_setPowerState
+                0x00004b2e                PCM_setPowerStateWithTimeout
+                0x00004b38                PCM_setPowerStateNonBlocking
+                0x00004b44                PCM_gotoLPM4InterruptSafe
+                0x00004b5c                PCM_gotoLPM3InterruptSafe
+                0x00004b74                PCM_enableRudeMode
+                0x00004b8c                PCM_disableRudeMode
+                0x00004ba8                PCM_enableInterrupt
+                0x00004bb8                PCM_disableInterrupt
+                0x00004bc8                PCM_getInterruptStatus
+                0x00004bd4                PCM_getEnabledInterruptStatus
+                0x00004be8                PCM_clearInterruptFlag
+                0x00004bf8                PCM_registerInterrupt
+                0x00004c0a                PCM_unregisterInterrupt
+ .text          0x00004c1c       0x40 ./driverlib/pmap.o
+                0x00004c1c                PMAP_configurePorts
+ .text          0x00004c5c      0x1dc ./driverlib/pss.o
+                0x00004c78                PSS_enableForcedDCDCOperation
+                0x00004c90                PSS_disableForcedDCDCOperation
+                0x00004ca8                PSS_enableHighSidePinToggle
+                0x00004cd8                PSS_disableHighSidePinToggle
+                0x00004cf0                PSS_enableHighSide
+                0x00004d08                PSS_disableHighSide
+                0x00004d20                PSS_setHighSidePerformanceMode
+                0x00004d44                PSS_getHighSidePerformanceMode
+                0x00004d58                PSS_enableHighSideMonitor
+                0x00004d70                PSS_disableHighSideMonitor
+                0x00004d88                PSS_setHighSideVoltageTrigger
+                0x00004db0                PSS_getHighSideVoltageTrigger
+                0x00004dc0                PSS_enableInterrupt
+                0x00004dd8                PSS_disableInterrupt
+                0x00004df0                PSS_getInterruptStatus
+                0x00004dfc                PSS_clearInterruptFlag
+                0x00004e14                PSS_registerInterrupt
+                0x00004e26                PSS_unregisterInterrupt
+ .text          0x00004e38       0xd8 ./driverlib/ref_a.o
+                0x00004e38                REF_A_setReferenceVoltage
+                0x00004e50                REF_A_disableTempSensor
+                0x00004e5c                REF_A_enableTempSensor
+                0x00004e68                REF_A_enableReferenceVoltageOutput
+                0x00004e74                REF_A_disableReferenceVoltageOutput
+                0x00004e80                REF_A_enableReferenceVoltage
+                0x00004e8c                REF_A_disableReferenceVoltage
+                0x00004e98                REF_A_getBandgapMode
+                0x00004ea8                REF_A_isBandgapActive
+                0x00004eb8                REF_A_isRefGenBusy
+                0x00004ec8                REF_A_isRefGenActive
+                0x00004ed8                REF_A_getBufferedBandgapVoltageStatus
+                0x00004ee8                REF_A_getVariableReferenceVoltageStatus
+                0x00004ef8                REF_A_setReferenceVoltageOneTimeTrigger
+                0x00004f04                REF_A_setBufferedBandgapVoltageOneTimeTrigger
+ .text          0x00004f10       0xc0 ./driverlib/reset.o
+                0x00004f10                ResetCtl_initiateSoftReset
+                0x00004f24                ResetCtl_initiateSoftResetWithSource
+                0x00004f34                ResetCtl_getSoftResetSource
+                0x00004f40                ResetCtl_clearSoftResetSource
+                0x00004f50                ResetCtl_initiateHardReset
+                0x00004f64                ResetCtl_initiateHardResetWithSource
+                0x00004f74                ResetCtl_getHardResetSource
+                0x00004f80                ResetCtl_clearHardResetSource
+                0x00004f90                ResetCtl_getPSSSource
+                0x00004f9c                ResetCtl_clearPSSFlags
+                0x00004fb0                ResetCtl_getPCMSource
+                0x00004fbc                ResetCtl_clearPCMFlags
+ .text          0x00004fd0      0x3f8 ./driverlib/rtc_c.o
+                0x00004fd0                RTC_C_startClock
+                0x00004ff0                RTC_C_holdClock
+                0x00005014                RTC_C_setCalibrationFrequency
+                0x00005040                RTC_C_setCalibrationData
+                0x00005064                RTC_C_setTemperatureCompensation
+                0x00005090                RTC_C_initCalendar
+                0x000050f8                RTC_C_getCalendarTime
+                0x00005144                RTC_C_setCalendarAlarm
+                0x00005170                RTC_C_setCalendarEvent
+                0x0000519c                RTC_C_definePrescaleEvent
+                0x000051c0                RTC_C_getPrescaleValue
+                0x000051e0                RTC_C_setPrescaleValue
+                0x00005220                RTC_C_convertBCDToBinary
+                0x00005230                RTC_C_convertBinaryToBCD
+                0x00005240                RTC_C_enableInterrupt
+                0x00005280                RTC_C_disableInterrupt
+                0x000052c8                RTC_C_getInterruptStatus
+                0x000052f8                RTC_C_getEnabledInterruptStatus
+                0x00005354                RTC_C_clearInterruptFlag
+                0x000053a4                RTC_C_registerInterrupt
+                0x000053b6                RTC_C_unregisterInterrupt
+ .text          0x000053c8      0x69c ./driverlib/spi.o
+                0x00005400                SPI_initMaster
+                0x000054ac                SPI_initSlave
+                0x0000551e                SPI_registerInterrupt
+                0x000055dc                SPI_unregisterInterrupt
+                0x00005698                EUSCI_B_SPI_select4PinFunctionality
+                0x000056a8                EUSCI_B_SPI_masterChangeClock
+                0x000056c8                EUSCI_B_SPI_slaveInit
+                0x000056fe                EUSCI_B_SPI_changeClockPhasePolarity
+                0x00005726                EUSCI_B_SPI_transmitData
+                0x0000572a                EUSCI_B_SPI_receiveData
+                0x00005730                EUSCI_B_SPI_enableInterrupt
+                0x0000573a                EUSCI_B_SPI_disableInterrupt
+                0x00005746                EUSCI_B_SPI_getInterruptStatus
+                0x0000574c                EUSCI_B_SPI_clearInterruptFlag
+                0x00005758                EUSCI_B_SPI_enable
+                0x00005768                EUSCI_B_SPI_disable
+                0x00005778                EUSCI_B_SPI_getReceiveBufferAddressForDMA
+                0x0000577c                EUSCI_B_SPI_getTransmitBufferAddressForDMA
+                0x00005780                EUSCI_B_SPI_isBusy
+                0x00005794                EUSCI_A_SPI_select4PinFunctionality
+                0x000057a4                SPI_selectFourPinFunctionality
+                0x000057c4                EUSCI_A_SPI_masterChangeClock
+                0x000057e4                SPI_changeMasterClock
+                0x0000580a                EUSCI_A_SPI_slaveInit
+                0x00005840                EUSCI_A_SPI_changeClockPhasePolarity
+                0x00005868                SPI_changeClockPhasePolarity
+                0x0000588e                EUSCI_A_SPI_transmitData
+                0x00005892                SPI_transmitData
+                0x000058b2                EUSCI_A_SPI_receiveData
+                0x000058b8                SPI_receiveData
+                0x000058d2                EUSCI_A_SPI_enableInterrupt
+                0x000058dc                SPI_enableInterrupt
+                0x000058fc                EUSCI_A_SPI_disableInterrupt
+                0x00005908                SPI_disableInterrupt
+                0x00005928                EUSCI_A_SPI_getInterruptStatus
+                0x0000592e                SPI_getInterruptStatus
+                0x0000594e                SPI_getEnabledInterruptStatus
+                0x00005978                EUSCI_A_SPI_clearInterruptFlag
+                0x00005984                SPI_clearInterruptFlag
+                0x000059a4                EUSCI_A_SPI_enable
+                0x000059b4                SPI_enableModule
+                0x000059ce                EUSCI_A_SPI_disable
+                0x000059de                SPI_disableModule
+                0x000059f8                EUSCI_A_SPI_getReceiveBufferAddressForDMA
+                0x000059fc                SPI_getReceiveBufferAddressForDMA
+                0x00005a16                EUSCI_A_SPI_getTransmitBufferAddressForDMA
+                0x00005a1a                SPI_getTransmitBufferAddressForDMA
+                0x00005a34                EUSCI_A_SPI_isBusy
+                0x00005a48                SPI_isBusy
+ .text          0x00005a64      0x1dc ./driverlib/sysctl.o
+                0x00005a64                SysCtl_getTLVInfo
+                0x00005aa0                SysCtl_getSRAMSize
+                0x00005aac                SysCtl_getFlashSize
+                0x00005ab8                SysCtl_disableNMISource
+                0x00005ac8                SysCtl_enableNMISource
+                0x00005ad8                SysCtl_getNMISourceStatus
+                0x00005ae4                SysCtl_enableSRAMBank
+                0x00005afc                SysCtl_disableSRAMBank
+                0x00005b6c                SysCtl_enableSRAMBankRetention
+                0x00005b84                SysCtl_disableSRAMBankRetention
+                0x00005ba0                SysCtl_rebootDevice
+                0x00005bb0                SysCtl_enablePeripheralAtCPUHalt
+                0x00005bc0                SysCtl_disablePeripheralAtCPUHalt
+                0x00005bd0                SysCtl_setWDTTimeoutResetType
+                0x00005bf0                SysCtl_setWDTPasswordViolationResetType
+                0x00005c10                SysCtl_enableGlitchFilter
+                0x00005c20                SysCtl_disableGlitchFilter
+                0x00005c30                SysCtl_getTempCalibrationConstant
+ .text          0x00005c40       0x7c ./driverlib/systick.o
+                0x00005c40                SysTick_enableModule
+                0x00005c50                SysTick_disableModule
+                0x00005c60                SysTick_registerInterrupt
+                0x00005c6c                SysTick_unregisterInterrupt
+                0x00005c76                SysTick_enableInterrupt
+                0x00005c88                SysTick_disableInterrupt
+                0x00005c98                SysTick_setPeriod
+                0x00005ca4                SysTick_getPeriod
+                0x00005cb0                SysTick_getValue
+ .text          0x00005cbc      0x100 ./driverlib/timer32.o
+                0x00005cbc                Timer32_initModule
+                0x00005d04                Timer32_setCount
+                0x00005d24                Timer32_setCountInBackground
+                0x00005d44                Timer32_getValue
+                0x00005d48                Timer32_startTimer
+                0x00005d70                Timer32_haltTimer
+                0x00005d7a                Timer32_enableInterrupt
+                0x00005d84                Timer32_disableInterrupt
+                0x00005d8e                Timer32_clearInterruptFlag
+                0x00005d98                Timer32_getInterruptStatus
+                0x00005d9c                Timer32_registerInterrupt
+                0x00005dac                Timer32_unregisterInterrupt
+ .text          0x00005dbc      0x5c4 ./driverlib/timer_a.o
+                0x00005e9c                Timer_A_startCounter
+                0x00005ea8                Timer_A_configureContinuousMode
+                0x00005ed4                Timer_A_configureUpMode
+                0x00005f2c                Timer_A_configureUpDownMode
+                0x00005f84                Timer_A_initCapture
+                0x00005fc4                Timer_A_initCompare
+                0x00005ff6                Timer_A_getCounterValue
+                0x0000601a                Timer_A_clearTimer
+                0x0000602a                Timer_A_getSynchronizedCaptureCompareInput
+                0x00006042                Timer_A_getOutputForOutputModeOutBitValue
+                0x00006064                Timer_A_getCaptureCompareCount
+                0x00006078                Timer_A_setOutputForOutputModeOutBitValue
+                0x00006094                Timer_A_generatePWM
+                0x000060f4                Timer_A_stopTimer
+                0x00006102                Timer_A_setCompareValue
+                0x00006116                Timer_A_clearInterruptFlag
+                0x00006126                Timer_A_clearCaptureCompareInterrupt
+                0x00006144                Timer_A_enableInterrupt
+                0x00006154                Timer_A_disableInterrupt
+                0x00006164                Timer_A_getInterruptStatus
+                0x0000616c                Timer_A_enableCaptureCompareInterrupt
+                0x00006188                Timer_A_disableCaptureCompareInterrupt
+                0x000061a4                Timer_A_getCaptureCompareInterruptStatus
+                0x000061ba                Timer_A_getEnabledInterruptStatus
+                0x000061ce                Timer_A_getCaptureCompareEnabledInterruptStatus
+                0x000061f8                Timer_A_registerInterrupt
+                0x000062c4                Timer_A_unregisterInterrupt
+ .text          0x00006380      0x2f4 ./driverlib/uart.o
+                0x00006380                UART_initModule
+                0x00006426                UART_transmitData
+                0x0000644c                UART_receiveData
+                0x00006470                UART_enableModule
+                0x00006480                UART_disableModule
+                0x00006490                UART_queryStatusFlags
+                0x0000649a                UART_setDormant
+                0x000064aa                UART_resetDormant
+                0x000064ba                UART_transmitAddress
+                0x000064ce                UART_transmitBreak
+                0x00006514                UART_getReceiveBufferAddressForDMA
+                0x00006518                UART_getTransmitBufferAddressForDMA
+                0x0000651c                UART_selectDeglitchTime
+                0x0000652c                UART_enableInterrupt
+                0x00006546                UART_disableInterrupt
+                0x00006564                UART_getInterruptStatus
+                0x0000656a                UART_getEnabledInterruptStatus
+                0x000065a6                UART_clearInterruptFlag
+                0x000065b2                UART_registerInterrupt
+                0x00006614                UART_unregisterInterrupt
+ .text          0x00006674       0xa0 ./driverlib/wdt_a.o
+                0x00006674                WDT_A_holdTimer
+                0x0000668c                WDT_A_startTimer
+                0x000066a0                WDT_A_clearTimer
+                0x000066b8                WDT_A_initWatchdogTimer
+                0x000066cc                WDT_A_initIntervalTimer
+                0x000066e0                WDT_A_setPasswordViolationReset
+                0x000066e8                WDT_A_setTimeoutReset
+                0x000066f0                WDT_A_registerInterrupt
+                0x00006702                WDT_A_unregisterInterrupt
+ .text          0x00006714      0x494 ./tiny_aes/aes.o
+                0x00006b84                AES_init_ctx
+                0x00006b8c                AES_encrypt
+                0x00006b98                AES_decrypt
+ .text          0x00006ba8      0x254 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+                0x00006ba8                __muldf3
+                0x00006ba8                __aeabi_dmul
+ .text          0x00006dfc      0x168 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00006f64      0x378 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                0x00006f64                __aeabi_drsub
+                0x00006f6c                __aeabi_dsub
+                0x00006f6c                __subdf3
+                0x00006f70                __aeabi_dadd
+                0x00006f70                __adddf3
+                0x000071e8                __floatunsidf
+                0x000071e8                __aeabi_ui2d
+                0x00007208                __floatsidf
+                0x00007208                __aeabi_i2d
+                0x0000722c                __aeabi_f2d
+                0x0000722c                __extendsfdf2
+                0x00007270                __floatundidf
+                0x00007270                __aeabi_ul2d
+                0x00007280                __floatdidf
+                0x00007280                __aeabi_l2d
+ .text          0x000072dc      0x110 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x000072dc                __gtdf2
+                0x000072dc                __gedf2
+                0x000072e4                __ltdf2
+                0x000072e4                __ledf2
+                0x000072ec                __nedf2
+                0x000072ec                __eqdf2
+                0x000072ec                __cmpdf2
+                0x00007368                __aeabi_cdrcmple
+                0x00007378                __aeabi_cdcmpeq
+                0x00007378                __aeabi_cdcmple
+                0x00007388                __aeabi_dcmpeq
+                0x0000739c                __aeabi_dcmplt
+                0x000073b0                __aeabi_dcmple
+                0x000073c4                __aeabi_dcmpge
+                0x000073d8                __aeabi_dcmpgt
+ .text          0x000073ec       0xa0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+                0x000073ec                __truncdfsf2
+                0x000073ec                __aeabi_d2f
+ .text          0x0000748c      0x21c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x0000748c                __aeabi_frsub
+                0x00007494                __subsf3
+                0x00007494                __aeabi_fsub
+                0x00007498                __aeabi_fadd
+                0x00007498                __addsf3
+                0x000075f8                __aeabi_ui2f
+                0x000075f8                __floatunsisf
+                0x00007600                __aeabi_i2f
+                0x00007600                __floatsisf
+                0x0000761c                __aeabi_ul2f
+                0x0000761c                __floatundisf
+                0x0000762c                __aeabi_l2f
+                0x0000762c                __floatdisf
+ .text          0x000076a8      0x2a0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                0x000076a8                __mulsf3
+                0x000076a8                __aeabi_fmul
+                0x00007810                __aeabi_fdiv
+                0x00007810                __divsf3
+ .text          0x00007948       0x4c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+                0x00007948                __aeabi_f2iz
+                0x00007948                __fixsfsi
+ .text          0x00007994       0x40 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x00007994                __fixunssfsi
+                0x00007994                __aeabi_f2uiz
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x000079d4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.text.*)
+ .text.exit     0x000079d4       0x20 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                0x000079d4                exit
+ .text.__libc_init_array
+                0x000079f4       0x48 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                0x000079f4                __libc_init_array
+ .text.memset   0x00007a3c       0xa0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                0x00007a3c                memset
+ .text.startup.register_fini
+                0x00007adc       0x14 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00007af0       0xc4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x00007af0                __call_exitprocs
+ .text.atexit   0x00007bb4        0xc c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                0x00007bb4                atexit
+ .text.__libc_fini_array
+                0x00007bc0       0x2c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                0x00007bc0                __libc_fini_array
+ .text.__retarget_lock_init
+                0x00007bec        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007bec                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x00007bf0        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007bf0                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x00007bf4        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007bf4                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x00007bf8        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007bf8                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x00007bfc        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007bfc                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x00007c00        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007c00                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x00007c04        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007c04                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x00007c08        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007c08                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x00007c0c        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007c0c                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x00007c10        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007c10                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x00007c14       0x8c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                0x00007c14                __register_exitproc
+ .text._exit    0x00007ca0        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                0x00007ca0                _exit
+                0x00007ca4                . = ALIGN (0x4)
+ *(.ctors)
+                0x00007ca4                . = ALIGN (0x4)
+ *(.dtors)
+                0x00007ca4                . = ALIGN (0x4)
+                0x00007ca4                __init_array_start = .
+ *(.init_array*)
+ .init_array    0x00007ca4        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .init_array.00000
+                0x00007ca8        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x00007cac                __init_array_end = .
+ *(.init)
+ .init          0x00007cac        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00007cac                _init
+ .init          0x00007cb0        0x8 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini*)
+ .fini          0x00007cb8        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00007cb8                _fini
+ .fini_array    0x00007cbc        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini          0x00007cc0        0x8 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.glue_7         0x00007cc8        0x0
+ .glue_7        0x00007cc8        0x0 linker stubs
+
+.glue_7t        0x00007cc8        0x0
+ .glue_7t       0x00007cc8        0x0 linker stubs
+
+.vfp11_veneer   0x00007cc8        0x0
+ .vfp11_veneer  0x00007cc8        0x0 linker stubs
+
+.v4_bx          0x00007cc8        0x0
+ .v4_bx         0x00007cc8        0x0 linker stubs
+
+.iplt           0x00007cc8        0x0
+ .iplt          0x00007cc8        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x00007cc8      0x3ac
+ *(.rodata)
+ .rodata        0x00007cc8       0x80 ./driverlib/adc14.o
+ .rodata        0x00007d48       0x40 ./driverlib/flash.o
+ .rodata        0x00007d88       0x4c ./driverlib/gpio.o
+ .rodata        0x00007dd4       0x90 ./driverlib/interrupt.o
+ .rodata        0x00007e64      0x20c ./tiny_aes/aes.o
+ *(.rodata.*)
+ .rodata._global_impure_ptr
+                0x00008070        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x00008070                _global_impure_ptr
+
+.eh_frame       0x00008074        0x4
+ .eh_frame      0x00008074        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x00008074        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.ARM.exidx      0x00008078        0x8
+                0x00008078                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x00008078        0x8 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x00008080                __exidx_end = .
+
+.ARM.extab      0x00008080        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x00008080        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x00008080                __etext = .
+
+.rel.dyn        0x00008080        0x0
+ .rel.iplt      0x00008080        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.data           0x20000000      0x67c load address 0x00008080
+                0x00008080                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.data)
+ .data          0x20000000        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x20000000        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x20000004      0x242 ./main.o
+                0x20000004                key
+                0x200000c4                pt
+                0x20000124                keysize
+                0x20000128                ct
+                0x20000188                expected_ct
+                0x200001e8                expected_pt
+ .data          0x20000246        0x0 ./startup_msp432p401r_gcc.o
+ *fill*         0x20000246        0x2 
+ .data          0x20000248        0x4 ./system_msp432p401r.o
+                0x20000248                SystemCoreClock
+ .data          0x2000024c        0x0 ./driverlib/adc14.o
+ .data          0x2000024c        0x0 ./driverlib/aes256.o
+ .data          0x2000024c        0x0 ./driverlib/comp_e.o
+ .data          0x2000024c        0x0 ./driverlib/cpu.o
+ .data          0x2000024c        0x0 ./driverlib/crc32.o
+ .data          0x2000024c        0x0 ./driverlib/cs.o
+ .data          0x2000024c        0x0 ./driverlib/dma.o
+ .data          0x2000024c        0x0 ./driverlib/flash.o
+ .data          0x2000024c        0x0 ./driverlib/fpu.o
+ .data          0x2000024c        0x0 ./driverlib/gpio.o
+ .data          0x2000024c        0x0 ./driverlib/i2c.o
+ .data          0x2000024c        0x0 ./driverlib/interrupt.o
+ .data          0x2000024c        0x0 ./driverlib/mpu.o
+ .data          0x2000024c        0x0 ./driverlib/pcm.o
+ .data          0x2000024c        0x0 ./driverlib/pmap.o
+ .data          0x2000024c        0x0 ./driverlib/pss.o
+ .data          0x2000024c        0x0 ./driverlib/ref_a.o
+ .data          0x2000024c        0x0 ./driverlib/reset.o
+ .data          0x2000024c        0x0 ./driverlib/rtc_c.o
+ .data          0x2000024c        0x0 ./driverlib/spi.o
+ .data          0x2000024c        0x0 ./driverlib/sysctl.o
+ .data          0x2000024c        0x0 ./driverlib/systick.o
+ .data          0x2000024c        0x0 ./driverlib/timer32.o
+ .data          0x2000024c        0x0 ./driverlib/timer_a.o
+ .data          0x2000024c        0x0 ./driverlib/uart.o
+ .data          0x2000024c        0x0 ./driverlib/wdt_a.o
+ .data          0x2000024c        0x0 ./tiny_aes/aes.o
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x2000024c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.data*)
+ .data._impure_ptr
+                0x2000024c        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x2000024c                _impure_ptr
+ .data.impure_data
+                0x20000250      0x428 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000678        0x4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x20000678                __atexit_recursive_mutex
+                0x2000067c                . = ALIGN (0x4)
+                0x2000067c                __data_end__ = .
+
+.igot.plt       0x2000067c        0x0 load address 0x000086fc
+ .igot.plt      0x2000067c        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+vtable          0x20000800       0xe4 load address 0x000086fc
+ vtable         0x20000800       0xe4 ./driverlib/interrupt.o
+
+.bss            0x200008e4      0x118
+                0x200008e4                __bss_start__ = .
+ *(.shbss)
+ *(.bss)
+ .bss           0x200008e4        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x200008e4       0x1c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x20000900        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x20000900        0xc ./main.o
+                0x20000900                aesCount
+                0x20000908                Sw_state
+ .bss           0x2000090c        0x0 ./startup_msp432p401r_gcc.o
+ .bss           0x2000090c        0x0 ./system_msp432p401r.o
+ .bss           0x2000090c        0x0 ./driverlib/adc14.o
+ .bss           0x2000090c        0x0 ./driverlib/aes256.o
+ .bss           0x2000090c        0x0 ./driverlib/comp_e.o
+ .bss           0x2000090c        0x0 ./driverlib/cpu.o
+ .bss           0x2000090c        0x0 ./driverlib/crc32.o
+ .bss           0x2000090c        0x8 ./driverlib/cs.o
+ .bss           0x20000914        0x0 ./driverlib/dma.o
+ .bss           0x20000914        0x0 ./driverlib/flash.o
+ .bss           0x20000914        0x0 ./driverlib/fpu.o
+ .bss           0x20000914        0x0 ./driverlib/gpio.o
+ .bss           0x20000914        0x0 ./driverlib/i2c.o
+ .bss           0x20000914        0x0 ./driverlib/interrupt.o
+ .bss           0x20000914        0x0 ./driverlib/mpu.o
+ .bss           0x20000914        0x0 ./driverlib/pcm.o
+ .bss           0x20000914        0x0 ./driverlib/pmap.o
+ .bss           0x20000914        0x0 ./driverlib/pss.o
+ .bss           0x20000914        0x0 ./driverlib/ref_a.o
+ .bss           0x20000914        0x0 ./driverlib/reset.o
+ .bss           0x20000914        0x0 ./driverlib/rtc_c.o
+ .bss           0x20000914        0x0 ./driverlib/spi.o
+ .bss           0x20000914        0x0 ./driverlib/sysctl.o
+ .bss           0x20000914        0x0 ./driverlib/systick.o
+ .bss           0x20000914        0x0 ./driverlib/timer32.o
+ .bss           0x20000914        0x0 ./driverlib/timer_a.o
+ .bss           0x20000914        0x0 ./driverlib/uart.o
+ .bss           0x20000914        0x0 ./driverlib/wdt_a.o
+ .bss           0x20000914        0x0 ./tiny_aes/aes.o
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x20000914        0x0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.bss.*)
+ *(COMMON)
+ COMMON         0x20000914       0xc4 ./main.o
+                0x20000914                ctx
+                0x200009c4                buf
+ COMMON         0x200009d8       0x21 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x200009d8                __lock___atexit_recursive_mutex
+                0x200009dc                __lock___arc4random_mutex
+                0x200009e0                __lock___env_recursive_mutex
+                0x200009e4                __lock___sinit_recursive_mutex
+                0x200009e8                __lock___malloc_recursive_mutex
+                0x200009ec                __lock___at_quick_exit_mutex
+                0x200009f0                __lock___dd_hash_mutex
+                0x200009f4                __lock___tz_mutex
+                0x200009f8                __lock___sfp_recursive_mutex
+                0x200009fc                . = ALIGN (0x4)
+ *fill*         0x200009f9        0x3 
+                0x200009fc                __bss_end__ = .
+
+.heap           0x200009fc        0x0
+                0x200009fc                __heap_start__ = .
+                0x200009fc                end = __heap_start__
+                0x200009fc                _end = end
+                0x200009fc                __end = end
+ *(.heap)
+                0x200009fc                __heap_end__ = .
+                0x200009fc                __HeapLimit = __heap_end__
+
+.stack          0x20000a00        0x0
+                0x20000a00                _stack = .
+ *(.stack)
+                0x20010000                __StackTop = (ORIGIN (REGION_STACK) + LENGTH (REGION_STACK))
+                0x20010000                PROVIDE (__stack = __StackTop)
+START GROUP
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(CS6024_HW4_Powercast_AES.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000068       0x2e ./main.o
+ .ARM.attributes
+                0x00000096       0x2e ./startup_msp432p401r_gcc.o
+ .ARM.attributes
+                0x000000c4       0x2e ./system_msp432p401r.o
+ .ARM.attributes
+                0x000000f2       0x2e ./driverlib/adc14.o
+ .ARM.attributes
+                0x00000120       0x2e ./driverlib/aes256.o
+ .ARM.attributes
+                0x0000014e       0x2e ./driverlib/comp_e.o
+ .ARM.attributes
+                0x0000017c       0x2e ./driverlib/cpu.o
+ .ARM.attributes
+                0x000001aa       0x2e ./driverlib/crc32.o
+ .ARM.attributes
+                0x000001d8       0x2e ./driverlib/cs.o
+ .ARM.attributes
+                0x00000206       0x2e ./driverlib/dma.o
+ .ARM.attributes
+                0x00000234       0x2e ./driverlib/flash.o
+ .ARM.attributes
+                0x00000262       0x2e ./driverlib/fpu.o
+ .ARM.attributes
+                0x00000290       0x2e ./driverlib/gpio.o
+ .ARM.attributes
+                0x000002be       0x2e ./driverlib/i2c.o
+ .ARM.attributes
+                0x000002ec       0x2e ./driverlib/interrupt.o
+ .ARM.attributes
+                0x0000031a       0x2e ./driverlib/mpu.o
+ .ARM.attributes
+                0x00000348       0x2e ./driverlib/pcm.o
+ .ARM.attributes
+                0x00000376       0x2e ./driverlib/pmap.o
+ .ARM.attributes
+                0x000003a4       0x2e ./driverlib/pss.o
+ .ARM.attributes
+                0x000003d2       0x2e ./driverlib/ref_a.o
+ .ARM.attributes
+                0x00000400       0x2e ./driverlib/reset.o
+ .ARM.attributes
+                0x0000042e       0x2e ./driverlib/rtc_c.o
+ .ARM.attributes
+                0x0000045c       0x2e ./driverlib/spi.o
+ .ARM.attributes
+                0x0000048a       0x2e ./driverlib/sysctl.o
+ .ARM.attributes
+                0x000004b8       0x2e ./driverlib/systick.o
+ .ARM.attributes
+                0x000004e6       0x2e ./driverlib/timer32.o
+ .ARM.attributes
+                0x00000514       0x2e ./driverlib/timer_a.o
+ .ARM.attributes
+                0x00000542       0x2e ./driverlib/uart.o
+ .ARM.attributes
+                0x00000570       0x2e ./driverlib/wdt_a.o
+ .ARM.attributes
+                0x0000059e       0x2e ./tiny_aes/aes.o
+ .ARM.attributes
+                0x000005cc       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x000005ea       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000608       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000626       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000644       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000662       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000680       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000069e       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x000006bc       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x000006da       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000708       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000736       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000764       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000792       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000007c0       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000007ee       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000081c       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000084a       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000878       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000008a6       0x2e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x000008d4       0x1e c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./main.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a ./startup_msp432p401r_gcc.o
+ .comment       0x00000079       0x7a ./system_msp432p401r.o
+ .comment       0x00000079       0x7a ./driverlib/adc14.o
+ .comment       0x00000079       0x7a ./driverlib/aes256.o
+ .comment       0x00000079       0x7a ./driverlib/comp_e.o
+ .comment       0x00000079       0x7a ./driverlib/cpu.o
+ .comment       0x00000079       0x7a ./driverlib/crc32.o
+ .comment       0x00000079       0x7a ./driverlib/cs.o
+ .comment       0x00000079       0x7a ./driverlib/dma.o
+ .comment       0x00000079       0x7a ./driverlib/flash.o
+ .comment       0x00000079       0x7a ./driverlib/fpu.o
+ .comment       0x00000079       0x7a ./driverlib/gpio.o
+ .comment       0x00000079       0x7a ./driverlib/i2c.o
+ .comment       0x00000079       0x7a ./driverlib/interrupt.o
+ .comment       0x00000079       0x7a ./driverlib/mpu.o
+ .comment       0x00000079       0x7a ./driverlib/pcm.o
+ .comment       0x00000079       0x7a ./driverlib/pmap.o
+ .comment       0x00000079       0x7a ./driverlib/pss.o
+ .comment       0x00000079       0x7a ./driverlib/ref_a.o
+ .comment       0x00000079       0x7a ./driverlib/reset.o
+ .comment       0x00000079       0x7a ./driverlib/rtc_c.o
+ .comment       0x00000079       0x7a ./driverlib/spi.o
+ .comment       0x00000079       0x7a ./driverlib/sysctl.o
+ .comment       0x00000079       0x7a ./driverlib/systick.o
+ .comment       0x00000079       0x7a ./driverlib/timer32.o
+ .comment       0x00000079       0x7a ./driverlib/timer_a.o
+ .comment       0x00000079       0x7a ./driverlib/uart.o
+ .comment       0x00000079       0x7a ./driverlib/wdt_a.o
+ .comment       0x00000079       0x7a ./tiny_aes/aes.o
+
+.debug_info     0x00000000     0xe062
+ .debug_info    0x00000000      0xc45 ./main.o
+ .debug_info    0x00000c45      0x150 ./startup_msp432p401r_gcc.o
+ .debug_info    0x00000d95      0xc4c ./system_msp432p401r.o
+ .debug_info    0x000019e1      0xa19 ./driverlib/adc14.o
+ .debug_info    0x000023fa      0x6cc ./driverlib/aes256.o
+ .debug_info    0x00002ac6      0x67c ./driverlib/comp_e.o
+ .debug_info    0x00003142      0x1a6 ./driverlib/cpu.o
+ .debug_info    0x000032e8      0x3cc ./driverlib/crc32.o
+ .debug_info    0x000036b4     0x1001 ./driverlib/cs.o
+ .debug_info    0x000046b5      0x8f2 ./driverlib/dma.o
+ .debug_info    0x00004fa7     0x126e ./driverlib/flash.o
+ .debug_info    0x00006215      0x412 ./driverlib/fpu.o
+ .debug_info    0x00006627      0xb26 ./driverlib/gpio.o
+ .debug_info    0x0000714d      0xc26 ./driverlib/i2c.o
+ .debug_info    0x00007d73      0x6fe ./driverlib/interrupt.o
+ .debug_info    0x00008471      0x318 ./driverlib/mpu.o
+ .debug_info    0x00008789      0x90f ./driverlib/pcm.o
+ .debug_info    0x00009098      0x1a1 ./driverlib/pmap.o
+ .debug_info    0x00009239      0x362 ./driverlib/pss.o
+ .debug_info    0x0000959b      0x27f ./driverlib/ref_a.o
+ .debug_info    0x0000981a      0x343 ./driverlib/reset.o
+ .debug_info    0x00009b5d      0x64a ./driverlib/rtc_c.o
+ .debug_info    0x0000a1a7      0xf53 ./driverlib/spi.o
+ .debug_info    0x0000b0fa      0x4b9 ./driverlib/sysctl.o
+ .debug_info    0x0000b5b3      0x206 ./driverlib/systick.o
+ .debug_info    0x0000b7b9      0x3b1 ./driverlib/timer32.o
+ .debug_info    0x0000bb6a      0xbb4 ./driverlib/timer_a.o
+ .debug_info    0x0000c71e      0x823 ./driverlib/uart.o
+ .debug_info    0x0000cf41      0x2bf ./driverlib/wdt_a.o
+ .debug_info    0x0000d200      0xe62 ./tiny_aes/aes.o
+
+.debug_abbrev   0x00000000     0x3248
+ .debug_abbrev  0x00000000      0x275 ./main.o
+ .debug_abbrev  0x00000275       0xc9 ./startup_msp432p401r_gcc.o
+ .debug_abbrev  0x0000033e      0x12f ./system_msp432p401r.o
+ .debug_abbrev  0x0000046d      0x2c2 ./driverlib/adc14.o
+ .debug_abbrev  0x0000072f      0x1c6 ./driverlib/aes256.o
+ .debug_abbrev  0x000008f5      0x1d6 ./driverlib/comp_e.o
+ .debug_abbrev  0x00000acb      0x118 ./driverlib/cpu.o
+ .debug_abbrev  0x00000be3      0x125 ./driverlib/crc32.o
+ .debug_abbrev  0x00000d08      0x262 ./driverlib/cs.o
+ .debug_abbrev  0x00000f6a      0x223 ./driverlib/dma.o
+ .debug_abbrev  0x0000118d      0x2b5 ./driverlib/flash.o
+ .debug_abbrev  0x00001442      0x100 ./driverlib/fpu.o
+ .debug_abbrev  0x00001542      0x222 ./driverlib/gpio.o
+ .debug_abbrev  0x00001764      0x1db ./driverlib/i2c.o
+ .debug_abbrev  0x0000193f      0x1fb ./driverlib/interrupt.o
+ .debug_abbrev  0x00001b3a      0x13f ./driverlib/mpu.o
+ .debug_abbrev  0x00001c79      0x21d ./driverlib/pcm.o
+ .debug_abbrev  0x00001e96      0x102 ./driverlib/pmap.o
+ .debug_abbrev  0x00001f98      0x13c ./driverlib/pss.o
+ .debug_abbrev  0x000020d4       0xed ./driverlib/ref_a.o
+ .debug_abbrev  0x000021c1      0x119 ./driverlib/reset.o
+ .debug_abbrev  0x000022da      0x1fd ./driverlib/rtc_c.o
+ .debug_abbrev  0x000024d7      0x1a3 ./driverlib/spi.o
+ .debug_abbrev  0x0000267a      0x187 ./driverlib/sysctl.o
+ .debug_abbrev  0x00002801      0x117 ./driverlib/systick.o
+ .debug_abbrev  0x00002918      0x12a ./driverlib/timer32.o
+ .debug_abbrev  0x00002a42      0x1ca ./driverlib/timer_a.o
+ .debug_abbrev  0x00002c0c      0x1f0 ./driverlib/uart.o
+ .debug_abbrev  0x00002dfc      0x142 ./driverlib/wdt_a.o
+ .debug_abbrev  0x00002f3e      0x30a ./tiny_aes/aes.o
+
+.debug_loc      0x00000000     0x5574
+ .debug_loc     0x00000000       0x5a ./main.o
+ .debug_loc     0x0000005a       0x3c ./startup_msp432p401r_gcc.o
+ .debug_loc     0x00000096      0x177 ./system_msp432p401r.o
+ .debug_loc     0x0000020d      0x650 ./driverlib/adc14.o
+ .debug_loc     0x0000085d      0x458 ./driverlib/aes256.o
+ .debug_loc     0x00000cb5      0x26d ./driverlib/comp_e.o
+ .debug_loc     0x00000f22       0xa6 ./driverlib/crc32.o
+ .debug_loc     0x00000fc8      0x739 ./driverlib/cs.o
+ .debug_loc     0x00001701      0x41a ./driverlib/dma.o
+ .debug_loc     0x00001b1b     0x11f2 ./driverlib/flash.o
+ .debug_loc     0x00002d0d      0x2f6 ./driverlib/gpio.o
+ .debug_loc     0x00003003      0x641 ./driverlib/i2c.o
+ .debug_loc     0x00003644      0x191 ./driverlib/interrupt.o
+ .debug_loc     0x000037d5       0x76 ./driverlib/mpu.o
+ .debug_loc     0x0000384b      0x4e3 ./driverlib/pcm.o
+ .debug_loc     0x00003d2e       0x39 ./driverlib/pmap.o
+ .debug_loc     0x00003d67       0x6d ./driverlib/pss.o
+ .debug_loc     0x00003dd4      0x151 ./driverlib/rtc_c.o
+ .debug_loc     0x00003f25      0x709 ./driverlib/spi.o
+ .debug_loc     0x0000462e       0xed ./driverlib/sysctl.o
+ .debug_loc     0x0000471b       0x31 ./driverlib/systick.o
+ .debug_loc     0x0000474c       0xb1 ./driverlib/timer32.o
+ .debug_loc     0x000047fd      0x699 ./driverlib/timer_a.o
+ .debug_loc     0x00004e96      0x20b ./driverlib/uart.o
+ .debug_loc     0x000050a1       0xa3 ./driverlib/wdt_a.o
+ .debug_loc     0x00005144      0x430 ./tiny_aes/aes.o
+
+.debug_aranges  0x00000000      0x3c0
+ .debug_aranges
+                0x00000000       0x20 ./main.o
+ .debug_aranges
+                0x00000020       0x20 ./startup_msp432p401r_gcc.o
+ .debug_aranges
+                0x00000040       0x20 ./system_msp432p401r.o
+ .debug_aranges
+                0x00000060       0x20 ./driverlib/adc14.o
+ .debug_aranges
+                0x00000080       0x20 ./driverlib/aes256.o
+ .debug_aranges
+                0x000000a0       0x20 ./driverlib/comp_e.o
+ .debug_aranges
+                0x000000c0       0x20 ./driverlib/cpu.o
+ .debug_aranges
+                0x000000e0       0x20 ./driverlib/crc32.o
+ .debug_aranges
+                0x00000100       0x20 ./driverlib/cs.o
+ .debug_aranges
+                0x00000120       0x20 ./driverlib/dma.o
+ .debug_aranges
+                0x00000140       0x20 ./driverlib/flash.o
+ .debug_aranges
+                0x00000160       0x20 ./driverlib/fpu.o
+ .debug_aranges
+                0x00000180       0x20 ./driverlib/gpio.o
+ .debug_aranges
+                0x000001a0       0x20 ./driverlib/i2c.o
+ .debug_aranges
+                0x000001c0       0x20 ./driverlib/interrupt.o
+ .debug_aranges
+                0x000001e0       0x20 ./driverlib/mpu.o
+ .debug_aranges
+                0x00000200       0x20 ./driverlib/pcm.o
+ .debug_aranges
+                0x00000220       0x20 ./driverlib/pmap.o
+ .debug_aranges
+                0x00000240       0x20 ./driverlib/pss.o
+ .debug_aranges
+                0x00000260       0x20 ./driverlib/ref_a.o
+ .debug_aranges
+                0x00000280       0x20 ./driverlib/reset.o
+ .debug_aranges
+                0x000002a0       0x20 ./driverlib/rtc_c.o
+ .debug_aranges
+                0x000002c0       0x20 ./driverlib/spi.o
+ .debug_aranges
+                0x000002e0       0x20 ./driverlib/sysctl.o
+ .debug_aranges
+                0x00000300       0x20 ./driverlib/systick.o
+ .debug_aranges
+                0x00000320       0x20 ./driverlib/timer32.o
+ .debug_aranges
+                0x00000340       0x20 ./driverlib/timer_a.o
+ .debug_aranges
+                0x00000360       0x20 ./driverlib/uart.o
+ .debug_aranges
+                0x00000380       0x20 ./driverlib/wdt_a.o
+ .debug_aranges
+                0x000003a0       0x20 ./tiny_aes/aes.o
+
+.debug_line     0x00000000     0xaae5
+ .debug_line    0x00000000      0x3c0 ./main.o
+ .debug_line    0x000003c0      0x162 ./startup_msp432p401r_gcc.o
+ .debug_line    0x00000522      0x3e8 ./system_msp432p401r.o
+ .debug_line    0x0000090a      0xa22 ./driverlib/adc14.o
+ .debug_line    0x0000132c      0x657 ./driverlib/aes256.o
+ .debug_line    0x00001983      0x540 ./driverlib/comp_e.o
+ .debug_line    0x00001ec3      0x226 ./driverlib/cpu.o
+ .debug_line    0x000020e9      0x38b ./driverlib/crc32.o
+ .debug_line    0x00002474      0xd38 ./driverlib/cs.o
+ .debug_line    0x000031ac      0x788 ./driverlib/dma.o
+ .debug_line    0x00003934     0x1478 ./driverlib/flash.o
+ .debug_line    0x00004dac      0x27e ./driverlib/fpu.o
+ .debug_line    0x0000502a      0x527 ./driverlib/gpio.o
+ .debug_line    0x00005551      0x8b2 ./driverlib/i2c.o
+ .debug_line    0x00005e03      0x54a ./driverlib/interrupt.o
+ .debug_line    0x0000634d      0x2a9 ./driverlib/mpu.o
+ .debug_line    0x000065f6      0x807 ./driverlib/pcm.o
+ .debug_line    0x00006dfd      0x29f ./driverlib/pmap.o
+ .debug_line    0x0000709c      0x3cd ./driverlib/pss.o
+ .debug_line    0x00007469      0x314 ./driverlib/ref_a.o
+ .debug_line    0x0000777d      0x27f ./driverlib/reset.o
+ .debug_line    0x000079fc      0x6f1 ./driverlib/rtc_c.o
+ .debug_line    0x000080ed      0x943 ./driverlib/spi.o
+ .debug_line    0x00008a30      0x426 ./driverlib/sysctl.o
+ .debug_line    0x00008e56      0x24c ./driverlib/systick.o
+ .debug_line    0x000090a2      0x31d ./driverlib/timer32.o
+ .debug_line    0x000093bf      0x7a9 ./driverlib/timer_a.o
+ .debug_line    0x00009b68      0x594 ./driverlib/uart.o
+ .debug_line    0x0000a0fc      0x2e6 ./driverlib/wdt_a.o
+ .debug_line    0x0000a3e2      0x703 ./tiny_aes/aes.o
+
+.debug_str      0x00000000     0x6288
+ .debug_str     0x00000000      0x647 ./main.o
+                                0x6d0 (size before relaxing)
+ .debug_str     0x00000647       0x9a ./startup_msp432p401r_gcc.o
+                                0x21d (size before relaxing)
+ .debug_str     0x000006e1      0x7b3 ./system_msp432p401r.o
+                                0xa5c (size before relaxing)
+ .debug_str     0x00000e94      0x5a9 ./driverlib/adc14.o
+                                0x7c4 (size before relaxing)
+ .debug_str     0x0000143d      0x27b ./driverlib/aes256.o
+                                0x49d (size before relaxing)
+ .debug_str     0x000016b8      0x3a7 ./driverlib/comp_e.o
+                                0x5dc (size before relaxing)
+ .debug_str     0x00001a5f       0xa5 ./driverlib/cpu.o
+                                0x257 (size before relaxing)
+ .debug_str     0x00001b04      0x182 ./driverlib/crc32.o
+                                0x3a5 (size before relaxing)
+ .debug_str     0x00001c86      0x65d ./driverlib/cs.o
+                                0xd4a (size before relaxing)
+ .debug_str     0x000022e3      0x49c ./driverlib/dma.o
+                                0x69d (size before relaxing)
+ .debug_str     0x0000277f      0x69f ./driverlib/flash.o
+                                0xbd6 (size before relaxing)
+ .debug_str     0x00002e1e      0x184 ./driverlib/fpu.o
+                                0x357 (size before relaxing)
+ .debug_str     0x00002fa2      0x3a2 ./driverlib/gpio.o
+                                0x61f (size before relaxing)
+ .debug_str     0x00003344      0x5a4 ./driverlib/i2c.o
+                                0x7fb (size before relaxing)
+ .debug_str     0x000038e8      0x31f ./driverlib/interrupt.o
+                                0x56c (size before relaxing)
+ .debug_str     0x00003c07      0x180 ./driverlib/mpu.o
+                                0x34d (size before relaxing)
+ .debug_str     0x00003d87      0x408 ./driverlib/pcm.o
+                                0x67d (size before relaxing)
+ .debug_str     0x0000418f       0xb4 ./driverlib/pmap.o
+                                0x29a (size before relaxing)
+ .debug_str     0x00004243      0x25d ./driverlib/pss.o
+                                0x45f (size before relaxing)
+ .debug_str     0x000044a0      0x23a ./driverlib/ref_a.o
+                                0x42a (size before relaxing)
+ .debug_str     0x000046da      0x29b ./driverlib/reset.o
+                                0x463 (size before relaxing)
+ .debug_str     0x00004975      0x3f7 ./driverlib/rtc_c.o
+                                0x624 (size before relaxing)
+ .debug_str     0x00004d6c      0x52d ./driverlib/spi.o
+                                0x920 (size before relaxing)
+ .debug_str     0x00005299      0x29e ./driverlib/sysctl.o
+                                0x542 (size before relaxing)
+ .debug_str     0x00005537      0x126 ./driverlib/systick.o
+                                0x300 (size before relaxing)
+ .debug_str     0x0000565d      0x1bc ./driverlib/timer32.o
+                                0x3ac (size before relaxing)
+ .debug_str     0x00005819      0x5d0 ./driverlib/timer_a.o
+                                0x8ae (size before relaxing)
+ .debug_str     0x00005de9      0x2b3 ./driverlib/uart.o
+                                0x5c2 (size before relaxing)
+ .debug_str     0x0000609c      0x149 ./driverlib/wdt_a.o
+                                0x358 (size before relaxing)
+ .debug_str     0x000061e5       0xa3 ./tiny_aes/aes.o
+                                0x660 (size before relaxing)
+
+.debug_frame    0x00000000     0x342c
+ .debug_frame   0x00000000       0xec ./main.o
+ .debug_frame   0x000000ec       0x38 ./startup_msp432p401r_gcc.o
+ .debug_frame   0x00000124       0x40 ./system_msp432p401r.o
+ .debug_frame   0x00000164      0x354 ./driverlib/adc14.o
+ .debug_frame   0x000004b8      0x1c0 ./driverlib/aes256.o
+ .debug_frame   0x00000678      0x1a4 ./driverlib/comp_e.o
+ .debug_frame   0x0000081c       0x70 ./driverlib/cpu.o
+ .debug_frame   0x0000088c       0xa0 ./driverlib/crc32.o
+ .debug_frame   0x0000092c      0x320 ./driverlib/cs.o
+ .debug_frame   0x00000c4c      0x20c ./driverlib/dma.o
+ .debug_frame   0x00000e58      0x3dc ./driverlib/flash.o
+ .debug_frame   0x00001234       0xa0 ./driverlib/fpu.o
+ .debug_frame   0x000012d4      0x174 ./driverlib/gpio.o
+ .debug_frame   0x00001448      0x344 ./driverlib/i2c.o
+ .debug_frame   0x0000178c      0x18c ./driverlib/interrupt.o
+ .debug_frame   0x00001918       0xe0 ./driverlib/mpu.o
+ .debug_frame   0x000019f8      0x2dc ./driverlib/pcm.o
+ .debug_frame   0x00001cd4       0x2c ./driverlib/pmap.o
+ .debug_frame   0x00001d00      0x1c8 ./driverlib/pss.o
+ .debug_frame   0x00001ec8      0x100 ./driverlib/ref_a.o
+ .debug_frame   0x00001fc8       0xd0 ./driverlib/reset.o
+ .debug_frame   0x00002098      0x184 ./driverlib/rtc_c.o
+ .debug_frame   0x0000221c      0x438 ./driverlib/spi.o
+ .debug_frame   0x00002654      0x140 ./driverlib/sysctl.o
+ .debug_frame   0x00002794       0xb0 ./driverlib/systick.o
+ .debug_frame   0x00002844       0xec ./driverlib/timer32.o
+ .debug_frame   0x00002930      0x23c ./driverlib/timer_a.o
+ .debug_frame   0x00002b6c      0x174 ./driverlib/uart.o
+ .debug_frame   0x00002ce0       0xc0 ./driverlib/wdt_a.o
+ .debug_frame   0x00002da0      0x198 ./tiny_aes/aes.o
+ .debug_frame   0x00002f38       0x30 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00002f68       0x24 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00002f8c       0xac c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00003038       0xc4 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x000030fc       0x24 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00003120       0x4c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000316c       0x38 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x000031a4       0x24 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x000031c8       0x24 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x000031ec       0x28 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .debug_frame   0x00003214       0x2c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x00003240       0x38 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00003278       0x5c c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000032d4       0x20 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000032f4       0x34 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .debug_frame   0x00003328       0xb0 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .debug_frame   0x000033d8       0x34 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000340c       0x20 c:/ti/ccs1230/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
